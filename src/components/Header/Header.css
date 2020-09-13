@@ -1,0 +1,19 @@
+.Heading {
+  background: #0d0628;
+  padding: 0px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Heading-color {
+  display: flex;
+  align-items: center;
+}
+
+.Heading2 {
+  margin-left: 20px;
+  font-size: 20px;
+  color: yellow;
+  font-family: 'Alata,sans-serif';
+}
